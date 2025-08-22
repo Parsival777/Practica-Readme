@@ -58,6 +58,11 @@ En línea: `código corto`
   ```bash
 javac*.java
   ```
+#Task list
+[ ] Tarea 1
+[ ] Tarea 2 
+[ ] Actividad 3
+[ ] Actvidiad 4
 
 
 
