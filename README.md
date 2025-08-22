@@ -59,10 +59,10 @@ En línea: `código corto`
 javac*.java
   ```
 #Task list
-[ ] Tarea 1
-[ ] Tarea 2 
-[ ] Actividad 3
-[ ] Actvidiad 4
+- [ ] Tarea 1
+- [x] Tarea 2 
+- [ ] Actividad 3
+- [x] Actvidiad 4
 
 
 
